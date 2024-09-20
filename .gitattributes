@@ -1,0 +1,9 @@
+# Set the default behavior to automatically normalize line endings.
+* text=auto
+
+# Explicitly declare text files you want to always use LF (Unix-style line endings)
+*.js text eol=lf
+*.json text eol=lf
+
+# If you want to enforce CRLF on Windows (not recommended)
+# *.js text eol=crlf
